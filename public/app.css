@@ -1,0 +1,16 @@
+body {
+    background-color: goldenrod;
+    width: 700px;
+    margin: auto;
+    font-family: sans-serif;
+}
+
+.border {
+    margin-top: 3rem;
+    border-top: 1px solid gray;
+    padding-top: 5px;
+}
+
+p {
+    line-height: 1.6;
+}
